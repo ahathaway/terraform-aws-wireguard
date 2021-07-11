@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2021-07-11
+Updated to support terraform version 1.0.1. Also updating ubuntu image version to 20.04. 
+
 ## [1.0.0] - 2019-10-13
 Note that this release contains breaking changes. Hence the major version bump.
 
